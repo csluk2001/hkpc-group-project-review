@@ -52,11 +52,12 @@ There are stations having a even **wider gap between the train and platform**. T
  
 1. Yamp (Y-shape Ramp) - **Abandoned**
 
-    <img src="assets/early designs/yamp.webp" alt="drawing" height="200px"/>
+    <img src="assets/early designs/yamp-1.webp" alt="drawing" height="200px"/>
+    <img src="assets/early designs/yamp-2.webp" alt="drawing" height="200px"/>
 2. Rotational Carrier - **Abandoned**
 
-    <img src="assets/early designs/rotational-carrier-2.webp" alt="drawing" width="300px"/>
-    <img src="assets/early designs/rotational-carrier-1.webp" alt="drawing" width="300px"/>
+    <img src="assets/early designs/rotational-carrier-2.webp" alt="drawing" height="200px"/>
+    <img src="assets/early designs/rotational-carrier-1.webp" alt="drawing" height="200px"/>
 
 
 ### Contact
